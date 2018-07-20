@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">dbExample</string>
+    <string name="todo">TODO</string>
+    <string name="action_excluir">Excluir</string>
+    <string name="action_cancel">Cancelar</string>
+    <string name="confirmar_excluir">Deseja excluir?</string>
+</resources>
